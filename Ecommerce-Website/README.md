@@ -54,10 +54,3 @@ Check it out live here:
 👉 [Visit the live site »](https://sahadcmd.github.io/Ecommerce-Website/)
 
 ---
-
-## 💼 Getting Started
-
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/sahadcmd/Ecommerce-Website.git
-   cd Ecommerce-Website
